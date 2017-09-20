@@ -37,6 +37,11 @@ h3 {
   text-align: left;
 }
 
+p.list {
+  font-size: 11px;
+  text-decoration: none;
+}
+
 #designed {
   background-image: url("../images/the-flatiron-building.png");
   color: #fff;
