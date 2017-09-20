@@ -5,19 +5,18 @@ html {
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
-#designed {
-  background-image: url("../images/the-flatiron-building.png");
+h2 {
+  font-size: 32px;
 }
 
-.header p {
-  text-decoration: underline;
+h3 {
+  font-size: 23px;
 }
 
-.footer p {
-  text-decoration: underline;
+.main p {
+  font-size: 14px;
 }
 
 .header {
@@ -26,6 +25,19 @@ h1 {
   text-align: center;
 }
 
+.list {
+  text-decoration: underline;
+  font-size: 18px;
+  color: #fff;
+}
+
 .footer {
+  background-color: dimgray;
+  color: #fff;
   text-align: left;
+}
+
+#designed {
+  background-image: url("../images/the-flatiron-building.png");
+  color: #fff;
 }
