@@ -6,13 +6,26 @@ html {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: black;
 }
 
-p {
+#designed {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.header p {
+  text-decoration: underline;
+}
+
+.footer p {
   text-decoration: underline;
 }
 
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  color: #fff;
+  text-align: center;
+}
+
+.footer {
+  text-align: left;
 }
