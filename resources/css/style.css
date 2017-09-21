@@ -15,11 +15,14 @@ h3 {
   font-size: 23px;
 }
 
+a {
+  color: #fff;
+}
 .main p {
   font-size: 14px;
 }
 
-.header {
+#banner {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   color: #fff;
